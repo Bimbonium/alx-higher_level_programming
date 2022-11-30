@@ -7,4 +7,4 @@ def print_last_digit(number):
     else:
         a = 0
     print(f'{abs(a)}', end='')
-    return a
+    return abs(a)
