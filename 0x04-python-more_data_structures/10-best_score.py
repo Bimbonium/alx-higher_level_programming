@@ -7,4 +7,4 @@ def best_score(a_dictionary):
             if v > maxi:
                 maxi = v
                 key_1 = k
-                return key_1
+        return key_1
