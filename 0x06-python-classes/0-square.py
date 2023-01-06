@@ -3,7 +3,7 @@
 class Square:
 
     """
-    An empty Class
+    An empty Class test
 
     """
     Pass
