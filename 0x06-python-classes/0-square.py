@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-""" Compulsory module comment.
-
-this module is for classes """
+"""python3 -c 'print(__import__("my_module").__doc__)'"""
 
 
 class Square:
