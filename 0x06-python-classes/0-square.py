@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""python3 -c 'print(__import__("my_module").__doc__)'"""
+"""Example modules
+
+This module is for basic classes
+"""
 
 
 class Square:
