@@ -11,4 +11,4 @@ class Square:
     An empty Class test
 
     """
-    Pass
+    pass
