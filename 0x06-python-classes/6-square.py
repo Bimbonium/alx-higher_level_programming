@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Module documentation test keeps failing, so trying a new line"""
 """Class to define a square, with an attribute size"""
 
 

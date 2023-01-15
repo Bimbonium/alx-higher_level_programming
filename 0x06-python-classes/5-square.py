@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Another line of module documentation"""
 """Class to define a square, with an attribute size"""
 
 
