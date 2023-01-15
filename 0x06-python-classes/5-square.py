@@ -4,6 +4,7 @@
 
 class Square:
     """Class square with a size and an area"""
+
     def __init__(self, size=0):
         """Initialization with size constrained to the int type"""
 
