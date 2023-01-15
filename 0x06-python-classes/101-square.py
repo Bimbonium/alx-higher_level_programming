@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Square module, another varaint"""
+
+
 class Square:
     """
     creates a square object
