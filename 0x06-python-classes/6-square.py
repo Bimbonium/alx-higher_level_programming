@@ -38,14 +38,14 @@ class Square:
                 return self.__position
 
             @position.setter
-            def position(self, value)
-            """Attribute setter for position tuple"""
-            if type(value) is tuple and len(value) = 2\
-               and type(value[0]) is int and type(value[1]) is int\
-               and value[0] >= 0 and value[1] >= 0:
-                self.__position = value
-                return
-            raise TypeError("position must be a tuple of 2 positive integers")
+            def position(self, value):
+                """Attribute setter for position tuple"""
+                if type(value) is tuple and len(value) = 2\
+                   and type(value[0]) is int and type(value[1]) is int\
+                   and value[0] >= 0 and value[1] >= 0:
+                    self.__position = value
+                    return
+                raise TypeError("position must be a tuple of 2 positive integers")
 
         def my_print(self):
             """Method to print out the square, represented by #"""

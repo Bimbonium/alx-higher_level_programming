@@ -39,5 +39,5 @@ class Square:
             print()
         else:
             printer = '#' * self.__size
-            for x in range(self.__size)
-            print(printer)
+            for x in range(self.__size):
+                print(printer)
